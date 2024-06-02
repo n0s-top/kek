@@ -467,7 +467,7 @@ window.onload = function() {
     }("ref");
     null == e || (document.getElementById("airinput").value = e)
 };
-var countDownDate = new Date("February 1, 2024 00:00:00").getTime(),
+var countDownDate = new Date("Aug 30, 2024 00:00:00").getTime(),
     x = setInterval(function() {
         var e = (new Date).getTime(),
             t = countDownDate - e,
